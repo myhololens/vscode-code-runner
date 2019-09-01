@@ -1,3 +1,22 @@
+### 0.9.14 (2019-08-17)
+* [#516](https://github.com/formulahendry/vscode-code-runner/pull/516): Update "Run" icon to match new icon style
+
+### 0.9.13 (2019-08-14)
+* [#428](https://github.com/formulahendry/vscode-code-runner/pull/428): Use spawn to avoid stdout buffer exceeded
+
+### 0.9.12 (2019-08-02)
+* Add support for Scheme using [CHICKEN Scheme](https://www.call-cc.org/)
+
+### 0.9.11 (2019-06-12)
+* [#491](https://github.com/formulahendry/vscode-code-runner/issues/491): Fix terminal detection due to VS Code's change in 1.35
+
+### 0.9.10 (2019-06-02)
+* [#484](https://github.com/formulahendry/vscode-code-runner/pull/484): Fix Rust attributes considered as Shebang
+
+### 0.9.9 (2019-05-04)
+* Fix tempCodeRunnerFile not being deleted
+* Add option to hide "Run Code" from explorer context menu
+
 ### 0.9.8 (2019-04-07)
 * Add support for [Kit](https://www.kitlang.org/)
 
